@@ -1,0 +1,7 @@
+*{box-sizing: border-box;}
+body{
+    margin: 0;
+    font-family: 'Noto Serif KR', serif;
+    font-size: 16px;
+    color: #333;
+}
